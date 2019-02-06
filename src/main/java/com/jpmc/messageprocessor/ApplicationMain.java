@@ -11,9 +11,6 @@ import com.jpmc.messageprocessor.service.impl.SalesMessageProcessorImpl;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- * Created by 91726 on 05-02-2019.
- */
 public class ApplicationMain {
 
     public static void main(String[] args) {
